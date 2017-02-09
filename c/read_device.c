@@ -1,4 +1,4 @@
-//gcc read_device.c -o read_device
+//g++ read_device.c -o read_device
 // run: sudo read_device /dev/sda
 #include <assert.h>
 #include <errno.h>
